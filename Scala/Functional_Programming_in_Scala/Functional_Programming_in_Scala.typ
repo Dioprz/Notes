@@ -1,7 +1,9 @@
+#set text(font: "New Computer Modern")
+
 == Capítulo 1: Qué es programación funcional?
 
 
-/ Expresión transparente referencialmente: $e$ es referencialmente transparente (_RT_) si, para todo programa $p$, todas las ocurrencias de $e$ en $p$ pueden ser reemplazadas por el resultado de evaluar $e$ sin afectar el significado de $p$.
+/ Expresión transparente referencialmente: $e$ es _referencialmente transparente (RT)_ si, para todo programa $p$, todas las ocurrencias de $e$ en $p$ pueden ser reemplazadas por el resultado de evaluar $e$ sin afectar el significado de $p$.
 
 / Función pura : Una función $f$ es pura si la expresión $f(x)$ es RT para toda expresión $x$ RT.
 
