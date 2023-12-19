@@ -1,4 +1,4 @@
-Estas son algunas de mis notas tomadas a lo largo de mis cursos en el pregrado de Ciencias de la Computación, así como de libros o artículos que he estudiado de forma autónoma.
+Estas son algunas de mis notas tomadas durante los cursos en el pregrado de Ciencias de la Computación, así como de libros o artículos que he estudiado de forma autónoma.
 
 Los temas abordados son:
 
